@@ -1,0 +1,19 @@
+/* Dimension */
+
+.h_40px {height: 40px;}
+
+.h_100vh {height: 100vh;}
+
+.w_150px {width: 150px;}
+
+.w_adapt {width: calc(100% - 150px);}
+
+/* Padding */
+
+.pt_70px {padding-top: 70px;}
+
+/* Background */
+
+.bg_dark-blue {background-color: #051e34;}
+
+#bg_sidebar {background-image: url(../img/sidebar-bg.png);}
